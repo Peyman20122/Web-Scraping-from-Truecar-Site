@@ -101,8 +101,8 @@ This project is released under the **MIT License**. You are free to use, modify,
 
 ---
 ### **Author:**
-🚀 Developer: **[Your Name]**
-📧 Email: your-email@example.com
+🚀 Developer: **[Peyman Daei Rezaei]**
+📧 Email: peimandaii2012@gmail.com
 
 
 
