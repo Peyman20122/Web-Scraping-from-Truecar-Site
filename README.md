@@ -1,4 +1,4 @@
-# web-scraping-from-truecar-site-
+# web-scraping-from-truecar-site
 
 web scraping from **Truecar** site  and Transfer to mysql database:
 
